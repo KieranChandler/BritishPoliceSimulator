@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<system>
+  <modelImportPatternEnable>True</modelImportPatternEnable>
+  <createPrefabEnable>False</createPrefabEnable>
+  <createPrefabFoldout>False</createPrefabFoldout>
+  <defaultImportSettingsFoldout>True</defaultImportSettingsFoldout>
+  <defaultModelsFoldout>False</defaultModelsFoldout>
+  <modelImportPatternFoldout>True</modelImportPatternFoldout>
+  <materialSearchPatternFoldout>False</materialSearchPatternFoldout>
+  <colliderNames>
+    <length>1</length>
+    <element>*_Collision*</element>
+  </colliderNames>
+  <globalScale>1</globalScale>
+  <generateSecondaryUV>True</generateSecondaryUV>
+  <defaultTexturesFoldout>False</defaultTexturesFoldout>
+  <npotScale>ToNearest</npotScale>
+  <maxTextureSize>2048</maxTextureSize>
+  <textureIsReadable>True</textureIsReadable>
+  <filterMode>Trilinear</filterMode>
+  <anisoLevel>9</anisoLevel>
+  <defaultAudioFoldout>False</defaultAudioFoldout>
+  <threeD>True</threeD>
+  <hardware>True</hardware>
+  <loopable>True</loopable>
+  <defaultAudioEnable>True</defaultAudioEnable>
+  <defaultTexturesEnable>False</defaultTexturesEnable>
+  <defaultModelsEnable>True</defaultModelsEnable>
+  <lodShadows>False</lodShadows>
+  <scriptNames>
+    <length>1</length>
+    <element>*_Light_*</element>
+  </scriptNames>
+  <scriptComponents>
+    <length>1</length>
+    <element>Light</element>
+  </scriptComponents>
+</system>
